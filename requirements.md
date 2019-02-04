@@ -8,4 +8,5 @@
 6. What data will the user be able to access?
 7. What data will the user be able to change?
 8. Will there be different kinds of users?
+9. What environment should the project work within?
 
